@@ -1,0 +1,18 @@
+ div{width: 600px;
+        height: 350px;
+        border: 2px rgba(129, 192, 234, 0.821);
+        border-style: inset;}
+      .myimg1{
+        width: 200px;
+        height: 120px;
+        margin-right: 12px;
+        margin-bottom: 8px;
+        float: left;
+}
+      .myimg2{
+       width: 150px;
+       height: 90px;
+       margin-top: 10px;
+       margin-left: 10px;
+       margin-bottom: 10px;
+       float:right}

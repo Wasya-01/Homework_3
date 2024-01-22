@@ -1,0 +1,22 @@
+ .home3{
+        width: 350px;
+        height: 220px;
+        padding: 15px 10px 20px 10px;
+        margin-bottom: 30px;
+   border: 2px red;
+border-style: dashed;
+background-color: green;}
+   .light{ width: 300px;
+        height: 180px;
+        padding: 15px 10px 20px 10px;
+        border: 5px rgba(129, 192, 234, 0.821);
+border-style: inset;
+   }
+   .strong{font-weight: bold;}
+   p::before {
+      content: "\2022";
+      color:black;
+      font-size: 1.5em;
+      margin-right: 0.5em; 
+    }
+   p{display:inline-flex;}
